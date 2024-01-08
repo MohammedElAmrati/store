@@ -1,0 +1,47 @@
+
+.box{
+    height: 340;
+    font-size: 20px;
+    background-color: #000000;
+    display: flex;
+    margin: 0%;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+head{
+    background-color: #000000;
+    color: gold;
+}
+body{
+    background-color: #000000;
+    color: gold;
+
+}
+#box1{
+    font-size: 20px;
+    background-color: #000000;
+    margin: center;
+    height: 100px;
+    position: relative;
+}
+#box2{
+    height: 100px;
+    top: 0%;
+    left: 0%;
+    position: absolute;
+
+}
+.box2{
+    height: 340;
+    font-size: 20px;
+    background-color: #000000;
+    display: flex;
+    margin: 0%;
+    justify-content: center;
+    justify-content: space-around;
+}
+#box3{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
